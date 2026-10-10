@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"留学文书专家：PS 与推荐信的结构化写作（背景素材→结构搭建→多轮改写→招生官自检），诚实红线不编造经历","name":"lhg-study-abroad","source":"./"}]}
